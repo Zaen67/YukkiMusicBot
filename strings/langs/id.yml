@@ -83,7 +83,7 @@ start_6 : "❗️ Supergrup Diperlukan ️\n\nHarap ubah grup Anda menjadi grup 
 start_7 : "Daftar Hitam Obrolan\n\nObrolan Anda telah dimasukkan dalam daftar hitam oleh Bot. Harap minta Pengguna Sudo untuk memasukkan obrolan ke daftar putih terlebih dahulu. Periksa [Sudolist dari sini]({0})"
 
 # help
-help_1 : "Klik tombol di bawah untuk informasi lebih lanjut. Jika Anda menghadapi masalah dalam perintah, Anda dapat menghubungi pemilik bot saya atau bertanya dalam obrolan dukungan.\n\nSemua perintah dapat digunakan dengan: /"
+help_1 : "Klik tombol di bawah untuk informasi lebih lanjut. Jika Anda menghadapi masalah dalam perintah, Anda dapat menghubungi pemilik bot saya atau bertanya dalam obrolan dukungan.\n\nSemua perintah dapat digunakan dengan: /help"
 help_2 : "Hubungi saya di PM untuk bantuan."
 
 # settings
